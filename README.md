@@ -2,7 +2,7 @@
 This project is from Zero to Mastery: Jacascript Web Projects: 20 Projects to Build Your Portfolio. This is project 1 / 20.
 
 # Live Project
-You can check out my live project here.
+You can check out my live project here  https://yashlad681.github.io/Quote-Generator/
 
 
 # Thoughts
